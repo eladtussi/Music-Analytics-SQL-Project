@@ -14,13 +14,13 @@ using **SQL queries** to uncover insights about popularity, genres, artists, and
 ## 🔎 Example Insights
 
 ### 🎤 Top 10 Artists with Most Songs
-![top_artists](images/Top 10 Artists.png)
+![top_artists](images/Top_10_Artists.png)
 
 ### ⭐ Most Popular Songs
 ![popular_songs](images/Top_Songs.png)
 
 ### ⏱️ Average Song Length
-![avg_length](images/Average song duration.png)
+![avg_length](images/Average_song_duration.png)
 
 ### 🎶 Average Energy per Genre
-![avg_energy](images/Average energy.png)
+![avg_energy](images/Average_energy.png)
