@@ -26,6 +26,9 @@ using **SQL queries** to uncover insights about popularity, genres, artists, and
 ### ⭐ Most Popular Songs
 ![popular_songs](images/Top_Songs.png)
 
+### 🎶 Artists with the most #1 popular songs (per genre)
+![avg_energy](images/5.png)
+
 ### ⏱️ Average Song Length
 ![avg_length](images/Average_song_duration.png)
 
@@ -33,10 +36,5 @@ using **SQL queries** to uncover insights about popularity, genres, artists, and
 ![avg_energy](images/Average_Energy.png)
 
 
-## ⚡ Advanced SQL Analysis
-- Top 3 most popular songs per genre (Window Functions + CTE)
-- Popularity trends per decade
-- Correlation between danceability & popularity
-- Artists with most #1 genre hits
 
 
