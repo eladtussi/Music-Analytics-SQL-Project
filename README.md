@@ -20,13 +20,13 @@ using **SQL queries** to uncover insights about popularity, genres, artists, and
 - 💃 **Danceability vs Popularity**: Songs average 0.55 danceability and 41 popularity score
 
 
+## 📊 Examples of Analysis & Visualizations
+
+
 ### 🎤 Top 10 Artists with Most Songs
 ![top_artists](images/Top_10_Artists.png)
 
-### ⭐ Most Popular Songs
-![popular_songs](images/Top_Songs.png)
-
-### 🎶 Artists with the most #1 popular songs (per genre)
+### 🏆 Artists with the most #1 popular songs (per genre)
 ![avg_energy](images/5.png)
 
 ### ⏱️ Average Song Length
